@@ -1,0 +1,10 @@
+class ExceptionsLocators:
+    ADD_BUTTON = "//button[@id='add_btn']"
+    ROW_1_INPUT = "//div[@id='row1']/input"
+    ROW_1_EDIT_BUTTON = "//div[@id='row1']/button[@name='Edit']"
+    ROW_1_SAVE_BUTTON = "//div[@id='row1']/button[@name='Save']"
+    INSTRUCTIONS = "//p[@id='instructions']"
+    ROW_2_INPUT = "//div[@id='row2']/input"
+    ROW_2_SAVE_BUTTON = "//div[@id='row2']/button[@name='Save']"
+    CONFIRMATION_MESSAGE = "//div[@id='confirmation']"
+    LOADING_INDICATOR = "//div[@id='loading']"
